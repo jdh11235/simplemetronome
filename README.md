@@ -1,7 +1,9 @@
-simplemetronome
+SimpleMetronome
 ===============
 
-simplemetronome
+[git.io/simplemetronome](http://git.io/simplemetronome)
+
+A simple metronome for serious musicians.
 
 ___
 
